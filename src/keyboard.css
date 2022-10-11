@@ -4,10 +4,11 @@
   bottom: 0;
   width: 100%;
   padding: 5px 0;
-  background: #33d4b4;
+  background: #0cb5da;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
   user-select: none;
   transition: bottom 0.4s;
+  font-size: large;
 }
 
 .keyboard--hidden {
@@ -25,7 +26,7 @@
   margin: 3px;
   border-radius: 4px;
   border: none;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(194, 13, 79, 0.2);
   color: #ffffff;
   font-size: 1.05rem;
   outline: none;
