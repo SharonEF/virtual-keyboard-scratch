@@ -13,8 +13,7 @@ import './App.css';
             target="_blank"
             rel="noopener noreferrer"
           >
-           My first react project
-          </a>
+           </a>
         </header>
       </div>
     );
